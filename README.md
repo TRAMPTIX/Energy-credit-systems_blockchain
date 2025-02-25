@@ -79,6 +79,3 @@ Contributions are welcome! Feel free to open **issues, PRs, or discussions** to 
 This project is licensed under the **MIT License**.
 
 ---
-
-Would you like to add **logos, graphics, or badges** for better visualization? 😊
-
